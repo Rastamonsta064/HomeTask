@@ -1,5 +1,6 @@
 # Project Overview
 The HouseTable project is a mini home evaluation system designed to help users assess the risk associated with potential loans. The system allows users to create, view, and update house records, while providing a risk calculation based on the loan amount and current value of the property.
+Youtube video link: https://www.youtube.com/watch?v=fJ_Iv5inb60
 
 The main features of the project include:
 
