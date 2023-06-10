@@ -1,9 +1,9 @@
 {
   "development": {
-    "username": "sql7624764",
-    "password": "3jZf37u6wy",
-    "database": "sql7624764",
-    "host": "sql7.freemysqlhosting.net",
+    "username": "username",
+    "password": "password",
+    "database": "database",
+    "host": "host",
     "dialect": "mysql"
   },
   "test": {

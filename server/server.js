@@ -9,11 +9,11 @@ const port = 3002
 const db = require('./models')
 
 const sequelize = new Sequelize(
-    'sql7624764',
-    'sql7624764',
-    '3jZf37u6wy',
+    'database',
+    'username',
+    'password',
     {
-        host:'sql7.freemysqlhosting.net',
+        host:'host',
         dialect: 'mysql'
     }
 )
